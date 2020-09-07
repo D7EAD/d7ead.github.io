@@ -1,4 +1,4 @@
-<p style="color: green;" align="center">Hello and welcome. Below you can find links to locations throughout this site--being to my blog or other resources. Enjoy your time here.</p>
+<p align="center">Hello and welcome. Below you can find links to locations throughout this site--being to my blog or other resources. Enjoy your time here.</p>
 <h2 align="left">Locations</h2>
 <ul>
   <li><a href="https://blog.dreadsec.me/">Blog</a></li>
